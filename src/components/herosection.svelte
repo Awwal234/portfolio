@@ -10,7 +10,7 @@
     </div>
     <!--flexit-->
     <div class="w-[100%] mt-[20px] md:h-[fit-content] lg:flex lg:justify-between">
-        <div class="md:w-[80%] w-[80%] lg:w-[50%]" id="list">
+        <div class="md:w-[80%] w-[95%] lg:w-[50%]" id="list">
             <div class="md:text-[60px] text-[30px] font-bold">
                 <span>
                     Solving Problems With Modern Tech Using
@@ -24,7 +24,7 @@
             <!---->
             <div class="mt-[45px] md:mt-[60px]">
                 <button class="text-white text-[12px] font-bold bg-transparent border border-green-700 shadow-md shadow-gray-800 py-[8px] px-[50px] rounded-full">
-                    View CV
+                    <a href="https://drive.google.com/file/d/1-DB4NDV02mtrDb2MUNRQDtEd39yhv59V/view?usp=drivesdk">View CV</a>
                 </button>
             </div>
         </div>
